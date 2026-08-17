@@ -1,0 +1,226 @@
+** Drc report for pcb.kicad_pcb **
+** Created on 2026-08-17T09:16:55 **
+** Report includes: Errors, Warnings **
+
+** Found 52 DRC violations **
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.0197 in; actual 0.0000 in)
+    Rule: board setup constraints edge; error
+    @(1.4882 in, 1.6535 in): Rectangle on Edge.Cuts
+    @(2.1376 in, 1.7713 in): PTH pad 1 [unconnected-(U1-PA02_A0_D0-Pad1)] of U1
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.0197 in; actual 0.0000 in)
+    Rule: board setup constraints edge; error
+    @(1.4882 in, 1.6535 in): Rectangle on Edge.Cuts
+    @(2.1376 in, 1.8713 in): PTH pad 2 [unconnected-(U1-PA4_A1_D1-Pad2)] of U1
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.0197 in; actual 0.0000 in)
+    Rule: board setup constraints edge; error
+    @(1.4882 in, 1.6535 in): Rectangle on Edge.Cuts
+    @(2.1376 in, 1.9713 in): PTH pad 3 [unconnected-(U1-PA10_A2_D2-Pad3)] of U1
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.0197 in; actual 0.0000 in)
+    Rule: board setup constraints edge; error
+    @(1.4882 in, 1.6535 in): Rectangle on Edge.Cuts
+    @(2.1376 in, 2.0713 in): PTH pad 4 [unconnected-(U1-PA11_A3_D3-Pad4)] of U1
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.0197 in; actual 0.0000 in)
+    Rule: board setup constraints edge; error
+    @(1.4882 in, 1.6535 in): Rectangle on Edge.Cuts
+    @(2.1376 in, 2.1713 in): PTH pad 5 [unconnected-(U1-PA8_A4_D4_SDA-Pad5)] of U1
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.0197 in; actual 0.0000 in)
+    Rule: board setup constraints edge; error
+    @(1.4882 in, 1.6535 in): Rectangle on Edge.Cuts
+    @(2.1376 in, 2.2713 in): PTH pad 6 [unconnected-(U1-PA9_A5_D5_SCL-Pad6)] of U1
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.0197 in; actual 0.0000 in)
+    Rule: board setup constraints edge; error
+    @(1.4882 in, 1.6535 in): Rectangle on Edge.Cuts
+    @(2.1376 in, 2.3713 in): PTH pad 7 [unconnected-(U1-PB08_A6_D6_TX-Pad7)] of U1
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.0197 in; actual 0.0000 in)
+    Rule: board setup constraints edge; error
+    @(1.4882 in, 1.6535 in): Rectangle on Edge.Cuts
+    @(1.5372 in, 2.3713 in): PTH pad 8 [unconnected-(U1-PB09_A7_D7_RX-Pad8)] of U1
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.0197 in; actual 0.0000 in)
+    Rule: board setup constraints edge; error
+    @(1.4882 in, 1.6535 in): Rectangle on Edge.Cuts
+    @(1.5372 in, 2.2713 in): PTH pad 9 [Net-(U1-PA7_A8_D8_SCK)] of U1
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.0197 in; actual 0.0000 in)
+    Rule: board setup constraints edge; error
+    @(1.4882 in, 1.6535 in): Rectangle on Edge.Cuts
+    @(1.5372 in, 2.1713 in): PTH pad 10 [Net-(U1-PA5_A9_D9_MISO)] of U1
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.0197 in; actual 0.0000 in)
+    Rule: board setup constraints edge; error
+    @(1.4882 in, 1.6535 in): Rectangle on Edge.Cuts
+    @(1.5372 in, 2.0713 in): PTH pad 11 [Net-(U1-PA6_A10_D10_MOSI)] of U1
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.0197 in; actual 0.0000 in)
+    Rule: board setup constraints edge; error
+    @(1.4882 in, 1.6535 in): Rectangle on Edge.Cuts
+    @(1.5372 in, 1.9713 in): PTH pad 12 [unconnected-(U1-3V3-Pad12)] of U1
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.0197 in; actual 0.0000 in)
+    Rule: board setup constraints edge; error
+    @(1.4882 in, 1.6535 in): Rectangle on Edge.Cuts
+    @(1.5372 in, 1.8713 in): PTH pad 13 [GND] of U1
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.0197 in; actual 0.0000 in)
+    Rule: board setup constraints edge; error
+    @(1.4882 in, 1.6535 in): Rectangle on Edge.Cuts
+    @(1.5372 in, 1.7713 in): PTH pad 14 [unconnected-(U1-5V-Pad14)] of U1
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(1.4882 in, 1.6535 in): Rectangle on Edge.Cuts
+    @(1.4870 in, 2.4060 in): Segment of U1 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(1.4882 in, 1.6535 in): Rectangle on Edge.Cuts
+    @(1.6603 in, 1.6019 in): Segment of U1 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(1.4882 in, 1.6535 in): Rectangle on Edge.Cuts
+    @(2.0146 in, 1.8914 in): Segment of U1 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(1.4882 in, 1.6535 in): Rectangle on Edge.Cuts
+    @(1.5675 in, 1.7384 in): Arc of U1 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(1.4882 in, 1.6535 in): Rectangle on Edge.Cuts
+    @(1.5658 in, 2.4060 in): Arc of U1 on B.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(1.4882 in, 1.6535 in): Rectangle on Edge.Cuts
+    @(1.4874 in, 2.4068 in): Polygon of U1 on B.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(2.1278 in, 2.3183 in): Segment of SW1 on F.Silkscreen
+    @(1.8528 in, 2.3274 in): Reference field of SW2
+[silk_overlap]: Silkscreen clearance
+    Rule: board setup constraints silk; warning
+    @(2.1278 in, 2.9124 in): Segment of SW2 on F.Silkscreen
+    @(1.8528 in, 2.9215 in): Reference field of SW3
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(1.5778 in, 2.3624 in): Segment of SW2 on F.Silkscreen
+    @(2.1376 in, 2.3713 in): PTH pad 7 [unconnected-(U1-PB08_A6_D6_TX-Pad7)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(2.1278 in, 2.3624 in): Segment of SW2 on F.Silkscreen
+    @(2.1376 in, 2.3713 in): PTH pad 7 [unconnected-(U1-PB08_A6_D6_TX-Pad7)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(1.5778 in, 1.7683 in): Segment of SW1 on F.Silkscreen
+    @(2.1376 in, 1.7713 in): PTH pad 1 [unconnected-(U1-PA02_A0_D0-Pad1)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(2.1278 in, 1.7683 in): Segment of SW1 on F.Silkscreen
+    @(2.1376 in, 1.7713 in): PTH pad 1 [unconnected-(U1-PA02_A0_D0-Pad1)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(2.1278 in, 1.7683 in): Segment of SW1 on F.Silkscreen
+    @(2.1376 in, 1.8713 in): PTH pad 2 [unconnected-(U1-PA4_A1_D1-Pad2)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(2.1278 in, 1.7683 in): Segment of SW1 on F.Silkscreen
+    @(2.1376 in, 1.9713 in): PTH pad 3 [unconnected-(U1-PA10_A2_D2-Pad3)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(2.1278 in, 1.7683 in): Segment of SW1 on F.Silkscreen
+    @(2.1376 in, 2.0713 in): PTH pad 4 [unconnected-(U1-PA11_A3_D3-Pad4)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(2.1278 in, 1.7683 in): Segment of SW1 on F.Silkscreen
+    @(2.1376 in, 2.1713 in): PTH pad 5 [unconnected-(U1-PA8_A4_D4_SDA-Pad5)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(2.1278 in, 1.7683 in): Segment of SW1 on F.Silkscreen
+    @(2.1376 in, 2.2713 in): PTH pad 6 [unconnected-(U1-PA9_A5_D5_SCL-Pad6)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(1.8374 in, 2.0123 in): Footprint text of U1 (Seeed Studio)
+    @(1.8528 in, 2.0433 in): NPTH pad of SW1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(1.5658 in, 2.4060 in): Arc of U1 on B.Silkscreen
+    @(1.5372 in, 2.3713 in): PTH pad 8 [unconnected-(U1-PB09_A7_D7_RX-Pad8)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(1.8384 in, 2.0918 in): Footprint text of U1 (XIAO)
+    @(1.8528 in, 2.0433 in): NPTH pad of SW1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(2.1073 in, 2.4042 in): Arc of U1 on B.Silkscreen
+    @(2.1376 in, 2.3713 in): PTH pad 7 [unconnected-(U1-PB08_A6_D6_TX-Pad7)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(1.8374 in, 2.0123 in): Footprint text of U1 (Seeed Studio)
+    @(2.0528 in, 2.0433 in): NPTH pad of SW1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(1.4870 in, 2.4060 in): Segment of U1 on B.Silkscreen
+    @(1.5372 in, 2.3713 in): PTH pad 8 [unconnected-(U1-PB09_A7_D7_RX-Pad8)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(1.4870 in, 2.4060 in): Segment of U1 on B.Silkscreen
+    @(1.5372 in, 2.2713 in): PTH pad 9 [Net-(U1-PA7_A8_D8_SCK)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(1.4870 in, 2.4060 in): Segment of U1 on B.Silkscreen
+    @(1.5372 in, 2.1713 in): PTH pad 10 [Net-(U1-PA5_A9_D9_MISO)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(1.4870 in, 2.4060 in): Segment of U1 on B.Silkscreen
+    @(1.5372 in, 2.0713 in): PTH pad 11 [Net-(U1-PA6_A10_D10_MOSI)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(1.4870 in, 2.4060 in): Segment of U1 on B.Silkscreen
+    @(1.5372 in, 1.9713 in): PTH pad 12 [unconnected-(U1-3V3-Pad12)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(1.4870 in, 2.4060 in): Segment of U1 on B.Silkscreen
+    @(1.5372 in, 1.8713 in): PTH pad 13 [GND] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(1.4870 in, 2.4060 in): Segment of U1 on B.Silkscreen
+    @(1.5372 in, 1.7713 in): PTH pad 14 [unconnected-(U1-5V-Pad14)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(2.1878 in, 1.7367 in): Segment of U1 on B.Silkscreen
+    @(2.1376 in, 1.7713 in): PTH pad 1 [unconnected-(U1-PA02_A0_D0-Pad1)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(2.1878 in, 1.7367 in): Segment of U1 on B.Silkscreen
+    @(2.1376 in, 1.8713 in): PTH pad 2 [unconnected-(U1-PA4_A1_D1-Pad2)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(2.1878 in, 1.7367 in): Segment of U1 on B.Silkscreen
+    @(2.1376 in, 1.9713 in): PTH pad 3 [unconnected-(U1-PA10_A2_D2-Pad3)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(2.1878 in, 1.7367 in): Segment of U1 on B.Silkscreen
+    @(2.1376 in, 2.0713 in): PTH pad 4 [unconnected-(U1-PA11_A3_D3-Pad4)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(2.1878 in, 1.7367 in): Segment of U1 on B.Silkscreen
+    @(2.1376 in, 2.1713 in): PTH pad 5 [unconnected-(U1-PA8_A4_D4_SDA-Pad5)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(2.1878 in, 1.7367 in): Segment of U1 on B.Silkscreen
+    @(2.1376 in, 2.2713 in): PTH pad 6 [unconnected-(U1-PA9_A5_D5_SCL-Pad6)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(2.1878 in, 1.7367 in): Segment of U1 on B.Silkscreen
+    @(2.1376 in, 2.3713 in): PTH pad 7 [unconnected-(U1-PB08_A6_D6_TX-Pad7)] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(1.8374 in, 2.0123 in): Footprint text of U1 (Seeed Studio)
+    @(1.6528 in, 2.0433 in): NPTH pad of SW1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(1.5675 in, 1.7384 in): Arc of U1 on B.Silkscreen
+    @(1.5372 in, 1.7713 in): PTH pad 14 [unconnected-(U1-5V-Pad14)] of U1
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
