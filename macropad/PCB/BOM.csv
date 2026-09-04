@@ -1,0 +1,11 @@
+Ref,Qty,Part,Value/Spec,Notes,Approx price
+U1,1,Seeed Studio XIAO RP2040,USB-C RP2040 module,Solder with 2x7-pin headers or flush-mount; USB faces top edge,$5.50
+J1,1,Pin socket 1x8 2.54mm,Female header,Display plugs into this; check your module's pin order matches silkscreen (GND VCC SCL SDA RES DC CS BLK),$0.30
+LCD,1,"1.54"" ST7789 IPS 240x240 SPI module",8-pin breakout,"Common modules from Waveshare/AliExpress; needs 3.3V logic",$4.00
+SW1-SW3,3,Kailh MX hotswap socket,CPG151101S11,Solder on BACK of board; any MX-style switch clicks in from front,$0.40 ea
+,3,MX-style key switch,Your choice,Gateron/Cherry/Kailh etc,—
+,3,1u keycap,Your choice,,—
+RE1,1,Rotary encoder EC11,"EC11E, 20mm shaft, with push switch",Alps EC11E or generic EC11 clone; add a knob,$0.80
+R1,1,Resistor 0R 0805,Jumper,Ties display backlight to 3V3 (always on). Omit and wire BLK elsewhere if you want PWM dimming,$0.01
+C1,1,Capacitor 10uF 0805,X5R 6.3V+,Display supply decoupling,$0.02
+H1-H4,4,M3 mounting hole,3.2mm,For standoffs / case,—
